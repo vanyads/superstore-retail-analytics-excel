@@ -8,11 +8,11 @@ The goal of this project is to understand where the business makes and loses mon
 - Which categories, sub-categories, products, segments, regions, and states drive (or hurt) profit?
 
 # Dataset
-Size: about 10,000 order lines (rows)
-Key fields: Order ID, Order Date, Ship Date, Ship Mode, Customer Name, Segment, State, Region, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit
+- Size: about 10,000 order lines (rows)
+- Key fields: Order ID, Order Date, Ship Date, Ship Mode, Customer Name, Segment, State, Region, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit
 
 # Tools & Techniques
-Microsoft Excel
-PivotTables and Calculated Fields
-PivotCharts and Slicers
-Dashboard design
+- Microsoft Excel
+- PivotTables and Calculated Fields
+- PivotCharts and Slicers
+- Dashboard design
